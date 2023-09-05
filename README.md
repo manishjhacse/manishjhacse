@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Manish Kumar Jha</h1>
-<h3 align="center">Mern Developer</h3>
+<h1 align="center">Hi 👋, I'm Manish</h1>
+<h3 align="center">A passionate frontend developer from India </h3>
+  <h4 align="center">🌱Constantly learning the art of Frontend development and DS&A.🧑‍💻</h4>
+<p align="left"><img src="coding.gif" alt="Manish Jha" width="100%" /> </p>
 
 - 📫 How to reach me **jhamanish.cse25@gmail.com**
 
