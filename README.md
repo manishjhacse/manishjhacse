@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Manish</h1>
-<h3 align="center">A passionate frontend developer from India </h3>
+<h3 align="center">A MERN stack developer from India </h3>
   <h4 align="center">🌱Constantly learning the art of Frontend development and DS&A.🧑‍💻</h4>
 <p align="left"><img src="coding.gif" alt="Manish Jha" width="100%" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishjhacse&label=Profile%20views&color=0e75b6&style=flat" alt="manishjhacse" /> </p>
-- 📫 How to reach me **jhamanish.cse25@gmail.com**
+- 📫 How to reach me <a href="mailto:jhamanish.cse25@gmail.com" target="_blank">jhamanish.cse25@gmail.com</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/manish-kumar-jha-07a961235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish-kumar-jha-07a961235" height="30" width="40" /></a>
-<a href="https://instagram.com/manish_j21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manish_j21" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/manish_j21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manish_j21" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manish-kumar-jha-07a961235" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish-kumar-jha-07a961235" height="30" width="40" /></a>
+<a href="https://instagram.com/manish_j21" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manish_j21" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/manish_j21" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manish_j21" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -17,6 +17,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishjhacse&show_icons=true&locale=en&layout=compact" alt="manishjhacse" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishjhacse&show_icons=true&locale=en" alt="manishjhacse" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishjhacse&" alt="manishjhacse" /></p>
