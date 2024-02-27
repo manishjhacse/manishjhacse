@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manish</h1>
 <h3 align="center">A MERN stack developer from India </h3>
-  <h4 align="center">🌱Constantly learning the art of Frontend development and DS&A.🧑‍💻</h4>
+  <h4 align="center">🌱Constantly learning the art of Web development and DS&A.🧑‍💻</h4>
 <p align="left"><img src="coding.gif" alt="Manish Jha" width="100%" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishjhacse&label=Profile%20views&color=0e75b6&style=flat" alt="manishjhacse" /> </p>
