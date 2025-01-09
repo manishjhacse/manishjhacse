@@ -68,7 +68,7 @@ I'm Manish Kumar Jha, a passionate MERN (MongoDB, Express.js, React.js, Node.js)
 
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manishjhacse&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) <br/>
-![](https://github-readme-stats.vercel.app/api?username=manishjhacse&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=manishjhacse&theme=dark&hide_border=true) 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/manish_j21?border=0&radius=10theme=dark&font=Poppins)</br>
 
