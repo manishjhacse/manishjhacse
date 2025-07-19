@@ -5,7 +5,7 @@
 
 <div >
   <b>- Open to project collaborations</b> <br>
-<b>- You can reach me through: <a href="https://manishkumarjha.me/">Website</a>   |  <a href="mailto:jhamanish.cse25@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/manish02/">
+<b>- You can reach me through: <a href="https://manishkumarjha.me/" target="_blank">Website</a>   |  <a href="mailto:jhamanish.cse25@gmail.com" target="_blank">Email</a> | <a href="https://www.linkedin.com/in/manish02/" target="_blank">
  <img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" align="center" /></a></b ><br>
 <b>- Open to interview </b> <br>
 <b>- **NOTE** : You can **fork** and **contribute** to any of the projects </b>
